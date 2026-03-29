@@ -9,9 +9,6 @@
 * **Course Code:** CSE0001
 * **Course Title:** Digital Literacy
 
-* 
-### In VIT Bhopal, I hope to gain skills such as database maanagement, operating system, web technology and, programming languages that i would apply in bringing my projects to life
-
 ---
 
 ## Project Overview
